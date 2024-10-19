@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kDiOgJFK/iVGAaAfgOPdbI4cp8XtJPRhnf2b0wRdOYo=",
+  "Source": "CarAuctionApi.App",
+  "BasePath": "_content/CarAuctionApi.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

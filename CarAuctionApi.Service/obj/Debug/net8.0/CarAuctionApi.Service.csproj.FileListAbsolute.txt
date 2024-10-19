@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Service.deps.json
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Service.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Service.pdb
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Core.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Data.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Data.pdb
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\bin\Debug\net8.0\CarAuctionApi.Core.pdb
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.AssemblyInfo.cs
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAucti.21A2D4E8.Up2Date
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\refint\CarAuctionApi.Service.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.pdb
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\ref\CarAuctionApi.Service.dll
