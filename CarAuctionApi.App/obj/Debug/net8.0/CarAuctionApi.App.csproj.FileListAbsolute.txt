@@ -146,3 +146,4 @@ C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.App\bin\Debug\net8.0\C
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.App\bin\Debug\net8.0\CarAuctionApi.Service.pdb
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.App\bin\Debug\net8.0\CarAuctionApi.Core.pdb
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.App\bin\Debug\net8.0\CarAuctionApi.Data.pdb
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.App\obj\Debug\net8.0\CarAuctionApi.App.sourcelink.json

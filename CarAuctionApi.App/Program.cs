@@ -1,5 +1,5 @@
 using CarAuctionApi.Data;
-using CarAuctionApi.Service.ServiceRegistration;
+using CarAuctionApi.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDataService(builder.Configuration);
-builder.Services.AddServices();
+builder.Services.AddService();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

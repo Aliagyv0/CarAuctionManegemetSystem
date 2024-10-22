@@ -11,12 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\Response\" />
-    <Folder Include="DTOs\Request\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Profiles\" />
-    <Folder Include="Validators\" />
-    <Folder Include="Services\" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.10.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
   </ItemGroup>
 
 </Project>

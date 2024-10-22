@@ -15,3 +15,4 @@ C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\refint\CarAuctionApi.Service.dll
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.pdb
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\ref\CarAuctionApi.Service.dll
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Service\obj\Debug\net8.0\CarAuctionApi.Service.sourcelink.json
