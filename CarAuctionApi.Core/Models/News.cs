@@ -9,7 +9,7 @@ namespace CarAuctionApi.Core.Models
 {
     public class News : BaseEntity
     {
-     public string Title { get; set; }
+        public string Title { get; set; }
         public Guid CategoryId { get; set; }
         public string Thesis { get; set; }
         public string Text { get; set; }

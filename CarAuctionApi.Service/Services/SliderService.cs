@@ -1,10 +1,15 @@
 ﻿using AutoMapper;
 using CarAuctionApi.Core.Models;
+using CarAuctionApi.Data.Filters;
 using CarAuctionApi.Data.Repository.Interfaces;
 using CarAuctionApi.Service.DTOs.Request;
+using CarAuctionApi.Service.DTOs.Response;
+using CarAuctionApi.Service.Helpers;
 using CarAuctionApi.Service.Responses;
 using CarAuctionApi.Service.Services.Interfaces;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,39 +23,90 @@ namespace CarAuctionApi.Service.Services
         private readonly IReadRepository<Slider> _sliderReadRepository;
         private readonly IWriteRepository<Slider> _sliderWriteRepository;
         private readonly IMapper _mapper;
-        private readonly IHttpContextAccessor _httpContextAccessor;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public SliderService(IReadRepository<Slider> sliderReadRepository, IWriteRepository<Slider> sliderWriteRepository, IMapper mapper, IHttpContextAccessor httpContextAccessor)
+        public SliderService(IReadRepository<Slider> sliderReadRepository, IWriteRepository<Slider> sliderWriteRepository, IMapper mapper, IWebHostEnvironment webHostEnvironment)
         {
             _sliderReadRepository = sliderReadRepository;
             _sliderWriteRepository = sliderWriteRepository;
             _mapper = mapper;
-            _httpContextAccessor = httpContextAccessor;
+            _webHostEnvironment = webHostEnvironment;
         }
 
-        public Task<ApiResponse> CreateAsync(SliderDto dto)
+        public async Task<ApiResponse> CreateAsync(SliderDto dto)
         {
-            throw new NotImplementedException();
+            Slider slider = _mapper.Map<Slider>(dto);
+
+            string path = Path.Combine(_webHostEnvironment.WebRootPath, "images", "sliders");
+
+            slider.ImageUrl = dto.Image.SaveImage(path);
+            await _sliderWriteRepository.AddAsync(slider);
+            await _sliderWriteRepository.SaveChangesAsync();
+
+            return new ApiResponse()
+            {
+                StatusCode = 201,
+                Items = slider
+            };
+
         }
 
-        public Task<ApiResponse> DeleteAsync(string id)
+        public async Task<ApiResponse> DeleteAsync(string id)
         {
-            throw new NotImplementedException();
+            await _sliderWriteRepository.SoftDelete(id);
+            await _sliderWriteRepository.SaveChangesAsync();
+            return new ApiResponse()
+            {
+                StatusCode = 204,
+            };
         }
 
-        public Task<ApiResponse> GetAllAsync()
+        public async Task<ApiResponse> GetAllAsync(RequestFilter filter)
         {
-            throw new NotImplementedException();
+            var sliders = await _sliderReadRepository.GetAll(x=>!x.IsDeleted, filter).ToListAsync();
+
+          
+            var result = _mapper.Map<SliderGetDto>(sliders);
+
+            return new ApiResponse()
+            {
+                StatusCode = 200,
+                Items = result
+            };
         }
 
-        public Task<ApiResponse> GetAsync(string id)
+        public async Task<ApiResponse> GetAsync(string id)
         {
-            throw new NotImplementedException();
+            var slider = await _sliderReadRepository.GetAsync((x => x.Id.ToString() == id && !x.IsDeleted));
+
+            var result = _mapper.Map<SliderGetDto>(slider);
+
+            return new ApiResponse()
+            {
+                StatusCode = 200,
+                Items = result
+            };
         }
 
-        public Task<ApiResponse> UpdateAsync(string id, SliderDto dto)
+        public async Task<ApiResponse> UpdateAsync(string id, SliderDto dto)
         {
-            throw new NotImplementedException();
+            Slider slider = await _sliderReadRepository.GetAsync((x=>x.Id.ToString() == id&& !x.IsDeleted));
+
+            if (dto.Image != null)
+            {
+                string path = Path.Combine(_webHostEnvironment.WebRootPath, "images", "sliders");
+                FileHelper.RemoveImage(Path.Combine(path,slider.ImageUrl));
+
+                slider.ImageUrl =dto.Image.SaveImage(path);
+            }
+            _mapper.Map(dto,slider);
+            _sliderWriteRepository.Update(slider);
+            await _sliderWriteRepository.SaveChangesAsync();
+            return new ApiResponse()
+            {
+                StatusCode = 200,
+                Items = slider
+            };
         }
     }
 }

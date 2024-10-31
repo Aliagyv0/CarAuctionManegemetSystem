@@ -5,6 +5,7 @@ C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.AssemblyInfoInputs.cache
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.AssemblyInfo.cs
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.sourcelink.json
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.dll
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\refint\CarAuctionApi.Core.dll
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Core\obj\Debug\net8.0\CarAuctionApi.Core.pdb

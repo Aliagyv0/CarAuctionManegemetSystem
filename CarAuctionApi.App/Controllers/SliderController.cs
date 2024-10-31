@@ -1,4 +1,5 @@
-﻿using CarAuctionApi.Service.DTOs.Request;
+﻿using CarAuctionApi.Data.Filters;
+using CarAuctionApi.Service.DTOs.Request;
 using CarAuctionApi.Service.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -44,9 +45,9 @@ namespace CarAuctionApi.App.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] RequestFilter filter)
         {
-            var result = await _sliderServices.GetAllAsync();
+            var result = await _sliderServices.GetAllAsync(filter);
             return StatusCode(result.StatusCode, result);
         }
     }

@@ -1,5 +1,6 @@
 ﻿using CarAuctionApi.Core.Models.BaseEntities;
 using CarAuctionApi.Data.Context;
+using CarAuctionApi.Data.Exceptions;
 using CarAuctionApi.Data.Repository.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
@@ -52,7 +53,7 @@ namespace CarAuctionApi.Data.Repository
         {
             var entity = await _dbSet.FirstOrDefaultAsync(e => e.Id.ToString() == id);
             if (entity == null)
-                throw new Exception("Entity isn`t found");
+                throw new EntityNotFoundException("Entity isn`t found");
 
             EntityEntry entityEntry = _dbSet.Remove(entity);
             return entityEntry.State == EntityState.Deleted;
@@ -62,7 +63,7 @@ namespace CarAuctionApi.Data.Repository
         {
             var entity = await _dbSet.FirstOrDefaultAsync(e => e.Id.ToString() == id);
             if (entity == null)
-                throw new Exception("Entity isn`t found");
+                throw new EntityNotFoundException("Entity isn`t found");
 
             entity.IsDeleted = true;
             return true;

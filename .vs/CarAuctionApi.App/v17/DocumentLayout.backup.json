@@ -3,64 +3,184 @@
   "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\request\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\request\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\context\\carauctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\context\\carauctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\validators\\sliderdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\validators\\sliderdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\interfaces\\iwritwrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\interfaces\\iwritwrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\filters\\requestfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\filters\\requestfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\response\\newsimagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\response\\newsimagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\response\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\response\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\request\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\request\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\writerpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\writerpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\request\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\request\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\request\\newsimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\request\\newsimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\carauctiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\carauctiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\exceptions\\deletemainimageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\exceptions\\deletemainimageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\helpers\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\helpers\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\helpers\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\helpers\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\logs\\log20241026.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\logs\\log20241026.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\profiles\\baseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\profiles\\baseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dai2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dai2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\carauctionapi.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -69,90 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\newstag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\newstag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\carauctiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\carauctiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.service\\dtos\\response\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A059D996-4C62-448A-BAFD-F5BE6E138E46}|CarAuctionApi.Service\\CarAuctionApi.Service.csproj|solutionrelative:carauctionapi.service\\dtos\\response\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E2102AF-9ADA-48A5-B9AB-FD7B45835B59}|CarAuctionApi.App\\CarAuctionApi.App.csproj|solutionrelative:carauctionapi.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\repository\\writerpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\repository\\writerpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\newsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\newsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.core\\models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6555410F-8AE2-4747-9D9C-6E922588B786}|CarAuctionApi.Core\\CarAuctionApi.Core.csproj|solutionrelative:carauctionapi.core\\models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|c:\\users\\ali\\source\\repos\\carauctionapi.app\\carauctionapi.data\\migrations\\20241019060655_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEAE32F-D792-4071-90D8-594EBA45C768}|CarAuctionApi.Data\\CarAuctionApi.Data.csproj|solutionrelative:carauctionapi.data\\migrations\\20241019060655_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -164,6 +200,32 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\News.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\News.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:07:07.423Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewsImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\NewsImageDto.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Request\\NewsImageDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\NewsImageDto.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Request\\NewsImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:51:08.555Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:937911271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
@@ -178,293 +240,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Program.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.App\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Program.cs",
-              "RelativeToolTip": "CarAuctionApi.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T21:36:38.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\ServiceRegistration.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T00:05:50.012Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\ServiceRegistration.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:09:32.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.App\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "CarAuctionApi.App\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:25:38.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T00:32:25.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarAuctionDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Context\\CarAuctionDbContext.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Context\\CarAuctionDbContext.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Context\\CarAuctionDbContext.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Context\\CarAuctionDbContext.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:59:51.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:57:08.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:50:49.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IWritwRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IWritwRepository.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\Interfaces\\IWritwRepository.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IWritwRepository.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Repository\\Interfaces\\IWritwRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:51:29.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SliderDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Validators\\SliderDtoValidator.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Validators\\SliderDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Validators\\SliderDtoValidator.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Validators\\SliderDtoValidator.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:46:05.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\ReadRepository.cs",
               "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\ReadRepository.cs",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\ReadRepository.cs",
               "RelativeToolTip": "CarAuctionApi.Data\\Repository\\ReadRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:54:08.571Z"
+              "WhenOpened": "2024-10-25T10:12:44.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISliderServices.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RequestFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Filters\\RequestFilter.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Filters\\RequestFilter.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Filters\\RequestFilter.cs",
+              "RelativeToolTip": "CarAuctionApi.Data\\Filters\\RequestFilter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:48:09.337Z"
+              "WhenOpened": "2024-10-31T11:21:01.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
+              "RelativeToolTip": "CarAuctionApi.Data\\Repository\\Interfaces\\IReadRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:14:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwDoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:26:46.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\TagController.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Controllers\\TagController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:50:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:03:51.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:55:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:32:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\NewsService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\NewsService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwH4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:35:27.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:35:44.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SliderService.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\SliderService.cs",
               "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\SliderService.cs",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\SliderService.cs",
               "RelativeToolTip": "CarAuctionApi.Service\\Services\\SliderService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:49:48.548Z"
+              "WhenOpened": "2024-10-24T17:01:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\TagService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\TagService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwD8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:03:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\FuelType.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Enums\\FuelType.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\FuelType.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Enums\\FuelType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:12:02.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UploadFile.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\UploadFile.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Helpers\\UploadFile.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\UploadFile.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Helpers\\UploadFile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Program.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Program.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:06:57.784Z"
+              "WhenOpened": "2024-10-24T16:12:36.17Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FileHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\FileHelper.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Helpers\\FileHelper.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\FileHelper.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Helpers\\FileHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:05:57.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CarAuctionApi.Service.csproj",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
-              "RelativeToolTip": "CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T08:37:32.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Responses\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Responses\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Responses\\ApiResponse.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Responses\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T21:11:29.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NewsTag.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\NewsTag.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\NewsTag.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\NewsTag.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\NewsTag.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:26:37.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CarAuctionDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:34:59.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SliderProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Profiles\\SliderProfile.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Profiles\\SliderProfile.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Profiles\\SliderProfile.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\Profiles\\SliderProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:52:23.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SliderGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\SliderGetDto.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Response\\SliderGetDto.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\SliderGetDto.cs",
-              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Response\\SliderGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:59:43.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\appsettings.json",
               "RelativeDocumentMoniker": "CarAuctionApi.App\\appsettings.json",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\appsettings.json",
               "RelativeToolTip": "CarAuctionApi.App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T00:17:57.032Z"
+              "WhenOpened": "2024-10-26T03:27:40.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Ban.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Ban.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Ban.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Ban.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Ban.cs",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:35:45.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\INewsService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\INewsService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\INewsService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:34:46.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewsImageGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\NewsImageGetDto.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Response\\NewsImageGetDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\NewsImageGetDto.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Response\\NewsImageGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:51:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISliderServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\ISliderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:09:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\CategoryGetDto.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Response\\CategoryGetDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Response\\CategoryGetDto.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Response\\CategoryGetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:39:39.892Z"
+              "WhenOpened": "2024-10-24T16:32:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Request\\SliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:06:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WriteRpository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\WriteRpository.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\WriteRpository.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\WriteRpository.cs",
+              "RelativeToolTip": "CarAuctionApi.Data\\Repository\\WriteRpository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:12:45.903Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Category.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Car.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Car.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:19:43.917Z"
+              "WhenOpened": "2024-10-27T20:55:45.531Z"
             },
             {
               "$type": "Document",
@@ -474,157 +523,73 @@
               "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\CarImage.cs",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\CarImage.cs",
               "RelativeToolTip": "CarAuctionApi.Core\\Models\\CarImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:47:34.47Z"
+              "WhenOpened": "2024-10-27T20:55:57.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\NewsDto.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\DTOs\\Request\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\DTOs\\Request\\NewsDto.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\DTOs\\Request\\NewsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:32:08.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarAuctionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Models\\CarAuctionDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:07:14.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Category.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:05:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Color.cs",
               "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Color.cs",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Color.cs",
               "RelativeToolTip": "CarAuctionApi.Core\\Models\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:42:48.023Z"
+              "WhenOpened": "2024-10-27T21:05:39.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Car.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Car.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:38:32.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Model.cs",
               "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Model.cs",
               "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Model.cs",
               "RelativeToolTip": "CarAuctionApi.Core\\Models\\Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:34:59.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "WriteRpository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\WriteRpository.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Repository\\WriteRpository.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Repository\\WriteRpository.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Repository\\WriteRpository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv0YAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:55:49.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Brand.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:34:14.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Tag.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:20:30.706Z"
+              "WhenOpened": "2024-10-27T20:59:03.442Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "NewsImage.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\NewsImage.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\NewsImage.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\NewsImage.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\NewsImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:30:21.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20241019060655_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Migrations\\20241019060655_initial.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Migrations\\20241019060655_initial.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Migrations\\20241019060655_initial.cs",
-              "RelativeToolTip": "CarAuctionApi.Data\\Migrations\\20241019060655_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:06:55.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "TransmissionType.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\TransmissionType.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Enums\\TransmissionType.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\TransmissionType.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Enums\\TransmissionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:19:02.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "FuelType.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\FuelType.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Enums\\FuelType.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Enums\\FuelType.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Enums\\FuelType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:51:48.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\News.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\News.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\News.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\News.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:22:02.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Slider.cs",
-              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:16:30.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\BaseEntities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\BaseEntities\\BaseEntity.cs",
@@ -632,7 +597,187 @@
               "RelativeToolTip": "CarAuctionApi.Core\\Models\\BaseEntities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:14:42.388Z"
+              "WhenOpened": "2024-10-27T20:50:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "CarAuctionApi.App\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:26:48.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\ServiceRegistration.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:56:14.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteMainImageException.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Exceptions\\DeleteMainImageException.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Exceptions\\DeleteMainImageException.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Exceptions\\DeleteMainImageException.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Exceptions\\DeleteMainImageException.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:21:56.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "CarAuctionApi.Data\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:18:05.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Profiles\\BaseProfile.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Profiles\\BaseProfile.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Profiles\\BaseProfile.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Profiles\\BaseProfile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwB4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:33:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UploadFile.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\UploadFile.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Helpers\\UploadFile.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\UploadFile.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Helpers\\UploadFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:56:44.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HttpContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\HttpContextHelper.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Helpers\\HttpContextHelper.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\HttpContextHelper.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Helpers\\HttpContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:13:05.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "log20241026.txt",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\logs\\log20241026.txt",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\logs\\log20241026.txt",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\logs\\log20241026.txt",
+              "RelativeToolTip": "CarAuctionApi.App\\logs\\log20241026.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-26T06:14:08.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Data\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Data\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "CarAuctionApi.Data\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:08:08.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Ban.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Ban.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Core\\Models\\Ban.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Core\\Models\\Ban.cs",
+              "RelativeToolTip": "CarAuctionApi.Core\\Models\\Ban.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:34:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:40:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "80238b22-2ca9-4601-955d-700716fa418dAi2.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg",
+              "RelativeDocumentMoniker": "CarAuctionApi.App\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "RelativeToolTip": "CarAuctionApi.App\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T17:10:59.048Z",
+              "EditorCaption": " - Bitmap [225x225, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CarAuctionApi.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
+              "RelativeToolTip": "CarAuctionApi.Service\\CarAuctionApi.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T16:04:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ITagService.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Services\\Interfaces\\ITagService.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Services\\Interfaces\\ITagService.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Services\\Interfaces\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:10:53.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CarAuctionApi.Service\\Responses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.Service\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "CarAuctionApi.Service\\Responses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:49:14.084Z"
             }
           ]
         }

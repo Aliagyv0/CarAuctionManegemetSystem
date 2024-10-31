@@ -9,6 +9,7 @@ C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAuctionApi.Data.AssemblyInfoInputs.cache
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAuctionApi.Data.AssemblyInfo.cs
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAuctionApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAuctionApi.Data.sourcelink.json
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAucti.FBC4F606.Up2Date
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\CarAuctionApi.Data.dll
 C:\Users\Ali\source\repos\CarAuctionApi.App\CarAuctionApi.Data\obj\Debug\net8.0\refint\CarAuctionApi.Data.dll

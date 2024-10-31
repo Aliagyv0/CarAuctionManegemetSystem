@@ -11,6 +11,7 @@ namespace CarAuctionApi.Core.Models
     {
         public string ImageUrl { get; set; }
         public bool IsMain { get; set; }
+        public Guid NewsId { get; set; }
         public virtual News News { get; set; }
     }
 }

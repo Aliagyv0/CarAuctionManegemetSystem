@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\CarAuctionApi.App\\CarAuctionApi.App\\wwwroot\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\80238b22-2ca9-4601-955d-700716fa418dAi2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarAuctionApi.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarAuctionApi.App.props",
+      "PackagePath": "build\\CarAuctionApi.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarAuctionApi.App.props",
+      "PackagePath": "buildMultiTargeting\\CarAuctionApi.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarAuctionApi.App.props",
+      "PackagePath": "buildTransitive\\CarAuctionApi.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
