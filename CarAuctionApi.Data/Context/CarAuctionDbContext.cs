@@ -7,17 +7,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace CarAuctionApi.Data.Context
 {
-    public class CarAuctionDbContext : DbContext
+    public class CarAuctionDbContext : IdentityDbContext<User>
     {
         public CarAuctionDbContext()
         {
-            
         }
+
         public DbSet<Ban> Bans { get; set; }
-        public DbSet<Brand> Brands {  get; set; }
+        public DbSet<Brand> Brands { get; set; }
         public DbSet<Car> Cars { get; set; }
         public DbSet<CarAuctionDetail> CarAuctionDetails { get; set; }
         public DbSet<CarImage> CarImages { get; set; }
@@ -30,7 +31,9 @@ namespace CarAuctionApi.Data.Context
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Tag> Tags { get; set; }
 
-        public CarAuctionDbContext(DbContextOptions<CarAuctionDbContext> options) : base(options) { }
+        public CarAuctionDbContext(DbContextOptions<CarAuctionDbContext> options) : base(options)
+        {
+        }
 
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
@@ -49,10 +52,11 @@ namespace CarAuctionApi.Data.Context
 
             return base.SaveChangesAsync(cancellationToken);
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new CarConfiguration());    
-
+            modelBuilder.ApplyConfiguration(new CarConfiguration());
+            modelBuilder.ApplyConfiguration(new UserConfiguration());
             base.OnModelCreating(modelBuilder);
         }
     }

@@ -14,7 +14,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
 
 namespace CarAuctionApi.Service.Services
 {
@@ -64,7 +64,7 @@ namespace CarAuctionApi.Service.Services
         public async Task<ApiResponse> GetAllAsync(RequestFilter filter)
         {
             var sliders = await _sliderReadRepository.GetAll(x=>!x.IsDeleted, filter).ToListAsync();
-
+           
           
             var result = _mapper.Map<SliderGetDto>(sliders);
 

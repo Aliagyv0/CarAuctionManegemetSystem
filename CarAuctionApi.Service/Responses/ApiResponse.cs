@@ -11,7 +11,9 @@ namespace CarAuctionApi.Service.Responses
     {
         [JsonIgnore]
         public int StatusCode { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public Object Items { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public string Message { get; set; }
     }
 }

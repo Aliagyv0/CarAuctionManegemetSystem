@@ -25,6 +25,8 @@ namespace CarAuctionApi.Service.Profiles
             CreateMap<TagDto, Tag>().ReverseMap();
             CreateMap<Tag, TagGetDto>().ReverseMap();
 
+            CreateMap<UserInfoDto, User>().ReverseMap();
+
             CreateMap<Slider, SliderDto>().ReverseMap();
             CreateMap<SliderGetDto, Slider>().ReverseMap()
                 .ForMember(x => x.ImageUrl, opt => opt.MapFrom(

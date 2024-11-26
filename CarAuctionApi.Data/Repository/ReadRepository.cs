@@ -64,8 +64,6 @@ namespace CarAuctionApi.Data.Repository
             return query;
         }
              
-
-
         public async Task<bool> IsExistAsync(Expression<Func<T, bool>> predicate)
             => await _dbSet.AnyAsync(predicate);
     }

@@ -19,17 +19,17 @@ namespace CarAuctionApi.Service.Validators
             RuleFor(x => x.Description)
                 .NotEmpty().NotNull().MaximumLength(200);
 
-            RuleFor(x => x)
+            RuleFor(x => x.Image)
                 .Custom((x, c) =>
                 {
-                    if (x.Image != null)
+                    if (x != null)
                     {
-                        if (!FileHelper.IsCorrectFileType(x.Image, "image"))
+                        if (!FileHelper.IsCorrectFileType(x, "image"))
                         {
                             c.AddFailure("Image", "Image is not a valid type.");
                         }
 
-                        if (!FileHelper.IsSizeCorrect(x.Image, 2))
+                        if (!FileHelper.IsSizeCorrect(x, 2))
                         {
                             c.AddFailure("Image", "Image is not a valid size.");
                         }

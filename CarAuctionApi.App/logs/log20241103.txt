@@ -1,0 +1,4 @@
+2024-11-03 18:35:38.602 +04:00 [WRN] Failed to determine the https port for redirect.
+2024-11-03 18:35:41.608 +04:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-11-03 18:35:41.614 +04:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-11-03 18:35:42.293 +04:00 [INF] HTTP GET /api/category responded 200 in 3588.1780 ms

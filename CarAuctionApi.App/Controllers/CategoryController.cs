@@ -1,12 +1,15 @@
 ﻿using CarAuctionApi.Data.Filters;
 using CarAuctionApi.Service.DTOs.Request;
 using CarAuctionApi.Service.Services.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarAuctionApi.App.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
     public class CategoryController : ControllerBase
     {
         private readonly ICategoryService _categoryServices;
@@ -49,6 +52,6 @@ namespace CarAuctionApi.App.Controllers
         {
             var result = await _categoryServices.GetAllAsync(filter);
             return StatusCode(result.StatusCode, result);
-        }
+        }                    
     }
 }

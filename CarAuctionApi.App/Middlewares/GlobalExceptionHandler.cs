@@ -22,20 +22,24 @@ namespace CarAuctionApi.App.Middlewares
 
                     var exception = contextFeature?.Error;
 
-                    if(exception is EntityNotFoundException)
-                    {
+                    if (exception is EntityNotFoundException)
                         statusCode = (int)HttpStatusCode.NotFound;
-                        message = exception.Message;
-                    }
-                    else if(exception is DeleteMainImageException)
-                    {
+
+                    else if (exception is DeleteMainImageException)
                         statusCode = (int)HttpStatusCode.Conflict;
-                        message = exception.Message;
-                    }
+
+                    else if (exception is UserNotFoundException)
+                        statusCode = (int)HttpStatusCode.NotFound;
+
+                    else if (exception is TokenExpiredException)
+                        statusCode = (int)HttpStatusCode.Gone;
+
+
+                    message = exception?.Message;
                     context.Response.StatusCode = statusCode;
+
                     await context.Response.WriteAsync(JsonConvert.SerializeObject(
-                        new {error=message }));
-                    
+                        new { error = message }));
                 });
             });
         }
